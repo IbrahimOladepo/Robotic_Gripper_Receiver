@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Gripper_Receiver-rescue")(type "Legacy")(uri "${KIPRJMOD}/Gripper_Receiver-rescue.lib")(options "")(descr ""))
+)
